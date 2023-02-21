@@ -1,0 +1,9 @@
+{
+  "name": "ceramic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "create-next-app": "^13.1.6"
+  }
+}
